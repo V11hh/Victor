@@ -1,5 +1,5 @@
 # Nome: Trabalho 1
-# Time: Corinthians
-# Carro: Camaro
+Time: Corinthians
+Carro: Camaro
 
 #Finalizado
